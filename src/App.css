@@ -1,0 +1,31 @@
+.card:hover div > div:nth-child(2) > h3 {
+color:#B300BE !important
+}
+.card:hover  {
+    border:1px solid #B300BE;
+
+}
+
+
+.card div > div:nth-child(1) > svg {
+    color: white;
+    /* background: linear-gradient(91.3deg, #FC00FF 5.68%, #00DBDE 16.52%); */
+}
+
+svg,path {
+    fill:currentColor !important
+}
+
+.card:hover > div:nth-child(4)  {
+    visibility: visible ;
+}
+
+.servicecard div > div:nth-child(2) > svg {
+    color: white;
+    /* background: linear-gradient(91.3deg, #FC00FF 5.68%, #00DBDE 16.52%); */
+}
+
+.servicecard div > div:nth-child(1) > svg {
+    color: white;
+    /* background: linear-gradient(91.3deg, #FC00FF 5.68%, #00DBDE 16.52%); */
+}
